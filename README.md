@@ -2,8 +2,8 @@
 
 A sleek, modern, and responsive web application that allows users to instantly generate QR codes from any URL. The app features a clean user interface, real-time input validation, and the ability to download the generated QR code as a PNG image.
 
-![QR Code Generator Screenshot](<img width="713" alt="Screenshot 2025-07-09 at 4 31 48 PM" src="https://github.com/user-attachments/assets/4aaceb6c-21a0-461d-9f0a-f4cf00cd520c" />
-)
+<img width="713" alt="Screenshot 2025-07-09 at 4 31 48 PM" src="https://github.com/user-attachments/assets/2f5372c4-f196-467a-9508-1c10fd53c60e" />
+
 
 ---
 
